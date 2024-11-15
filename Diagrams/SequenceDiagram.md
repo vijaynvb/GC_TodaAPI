@@ -1,4 +1,4 @@
-﻿# generate sequence diagram for the models in the project 
+﻿# generate sequence diagram for the todocontrollers  
 # using mermaid syntax
 
 ```mermaid

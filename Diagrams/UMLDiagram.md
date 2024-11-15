@@ -1,4 +1,7 @@
-﻿classDiagram
+﻿# UML Diagram
+```mermaid
+
+classDiagram
     class user {
         int Id
         string Name
@@ -26,3 +29,4 @@
     }
 
     user "1" --> "0..*" Todo : has
+``` 
